@@ -1,0 +1,15 @@
+c:\users\nastya\documents\visual studio 2015\Projects\Lab3_Klempach_Var9\Lab3_Klempach_Var9\bin\Debug\Lab3_Klempach_Var9.exe.config
+c:\users\nastya\documents\visual studio 2015\Projects\Lab3_Klempach_Var9\Lab3_Klempach_Var9\bin\Debug\Lab3_Klempach_Var9.exe
+c:\users\nastya\documents\visual studio 2015\Projects\Lab3_Klempach_Var9\Lab3_Klempach_Var9\bin\Debug\Lab3_Klempach_Var9.pdb
+c:\users\nastya\documents\visual studio 2015\Projects\Lab3_Klempach_Var9\Lab3_Klempach_Var9\obj\Debug\Lab3_Klempach_Var9.csprojResolveAssemblyReference.cache
+c:\users\nastya\documents\visual studio 2015\Projects\Lab3_Klempach_Var9\Lab3_Klempach_Var9\obj\Debug\MainWindow.g.cs
+c:\users\nastya\documents\visual studio 2015\Projects\Lab3_Klempach_Var9\Lab3_Klempach_Var9\obj\Debug\App.g.cs
+c:\users\nastya\documents\visual studio 2015\Projects\Lab3_Klempach_Var9\Lab3_Klempach_Var9\obj\Debug\Lab3_Klempach_Var9_MarkupCompile.cache
+c:\users\nastya\documents\visual studio 2015\Projects\Lab3_Klempach_Var9\Lab3_Klempach_Var9\obj\Debug\Lab3_Klempach_Var9_MarkupCompile.lref
+c:\users\nastya\documents\visual studio 2015\Projects\Lab3_Klempach_Var9\Lab3_Klempach_Var9\obj\Debug\MainWindow.baml
+c:\users\nastya\documents\visual studio 2015\Projects\Lab3_Klempach_Var9\Lab3_Klempach_Var9\obj\Debug\Lab3_Klempach_Var9.g.resources
+c:\users\nastya\documents\visual studio 2015\Projects\Lab3_Klempach_Var9\Lab3_Klempach_Var9\obj\Debug\Lab3_Klempach_Var9.Properties.Resources.resources
+c:\users\nastya\documents\visual studio 2015\Projects\Lab3_Klempach_Var9\Lab3_Klempach_Var9\obj\Debug\Lab3_Klempach_Var9.csproj.GenerateResource.Cache
+c:\users\nastya\documents\visual studio 2015\Projects\Lab3_Klempach_Var9\Lab3_Klempach_Var9\obj\Debug\Lab3_Klempach_Var9.exe
+c:\users\nastya\documents\visual studio 2015\Projects\Lab3_Klempach_Var9\Lab3_Klempach_Var9\obj\Debug\Lab3_Klempach_Var9.pdb
+c:\users\nastya\documents\visual studio 2015\Projects\Lab3_Klempach_Var9\Lab3_Klempach_Var9\obj\Debug\GeneratedInternalTypeHelper.g.cs
